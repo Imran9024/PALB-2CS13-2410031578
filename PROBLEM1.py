@@ -6,5 +6,6 @@ def reverse_array(arr):
         end -= 1
     return arr
 
+# Example
 arr = [1, 4, 3, 2, 6, 5]
 print(reverse_array(arr))
